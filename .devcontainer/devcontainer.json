@@ -14,5 +14,5 @@
 			]
 		}
 	},
-	"postCreateCommand": "sudo yarn install"
+	"postCreateCommand": "sudo chown -R $(whoami) node_modules/ && yarn install"
 }
