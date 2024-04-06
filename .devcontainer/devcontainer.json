@@ -14,5 +14,5 @@
 			]
 		}
 	},
-	"postCreateCommand": "yarn install"
+	"postCreateCommand": "sudo yarn install"
 }
