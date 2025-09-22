@@ -1,0 +1,51 @@
+site_name: Takumu Fujioka
+site_description: Portfolio website of Takumu Fujioka
+site_author: Takumu Fujioka
+site_url: https://fjktkm.github.io/
+repo_url: https://github.com/fjktkm/fjktkm.github.io
+repo_name: fjktkm/fjktkm.github.io
+theme:
+  name: material
+  favicon: images/logo.svg
+  logo: images/logo.svg
+  features:
+    - header.social
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+nav:
+  - Home: index.md
+  - Academics: academics.md
+  - Development: development.md
+  - Creative: creative.md
+plugins:
+  - search
+extra:
+  social:
+    - icon: simple/orcid
+      link: https://orcid.org/0009-0005-0691-414X
+    - icon: fontawesome/brands/github
+      link: https://github.com/fjktkm
+    - icon: simple/zenn
+      link: https://zenn.dev/fjktkm
+    - icon: simple/note
+      link: https://note.com/fjktkm
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/fjktkm
