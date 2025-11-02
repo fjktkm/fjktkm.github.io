@@ -13,6 +13,10 @@ I am a master student at Nagoya Institute of Technology, Japan. My vision is to 
 - Machine Learning
 - Creative x DevOps
 
+## My Vision
+
+- [The Future of Creative Work Inspired by Software Development (in Japanese)](https://zenn.dev/fjktkm/articles/6a3286caa63114)
+
 ## Socials
 
 - [ORCID](https://orcid.org/0009-0005-0691-414X)
