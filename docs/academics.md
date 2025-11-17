@@ -28,10 +28,14 @@ icon: material/school
 ### National Conferences and Meetings
 
 1. 藤岡 拓夢, 田中 剛平
+   **パッチ埋め込みを用いた Transformer によるベクターフォントの再構成**
+   *第28回情報論的学習理論ワークショップ*, ポスター発表, 11月13日 (2025).
+
+2. 藤岡 拓夢, 田中 剛平
    **パッチ埋め込みを用いたTransformerによるベクターフォントの分類**
    *第39回人工知能学会総合大会*, ポスター発表, 課題番号3Win5-25, 2025年5月29日
 
-2. T. Fujioka, G. Tanaka
+3. T. Fujioka, G. Tanaka
    **Vector Font Generation with Transformer**
    *2024 IRCN Retreat (Makuhari International Training Center)*, Poster, October 24, 2024
 
