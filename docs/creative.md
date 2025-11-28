@@ -2,21 +2,21 @@
 icon: material/brush
 ---
 
-## Skills
+## スキル
 
-- Graphic Design
-- Desktop Publishing
+- グラフィックデザイン
+- DTP（Desktop Publishing）
 
-## Software
+## 使用ソフトウェア
 
-- [Affinity Suite](https://affinity.serif.com/)
+- [Affinity](https://www.affinity.studio/ja_jp)
 
-## Organizations
+## 所属・コミュニティ
 
-- [NITMic (Nagoya Institute of Technology Computer Club)](https://nitmic.club.nitech.ac.jp/)
+- [名古屋工業大学コンピュータ倶楽部 NITMic](https://nitmic.club.nitech.ac.jp/)
 - [HYPERCUBE](https://hpcb-mass.com/)
 
-## Portfolio
+## ポートフォリオ
 
-- [NITMic Projects](https://nitmic.club.nitech.ac.jp/authors/fjktkm/)
-- [Foriio Profile](https://www.foriio.com/fjktkm)
+- [NITMic で携わったプロジェクト](https://nitmic.club.nitech.ac.jp/authors/fjktkm/)
+- [Foriio ポートフォリオ](https://www.foriio.com/fjktkm)
