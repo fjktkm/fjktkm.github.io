@@ -6,6 +6,7 @@ icon: material/brush
 
 - Graphic Design
 - DTP (Desktop Publishing)
+- Video Editing
 
 ## Primary Software
 

@@ -6,6 +6,7 @@ icon: material/brush
 
 - グラフィックデザイン
 - DTP（Desktop Publishing）
+- 動画編集
 
 ## 主な使用ソフトウェア
 
