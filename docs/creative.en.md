@@ -61,16 +61,6 @@ icon: material/brush
     Role: Editorial assistance, Booth menu design, etc.<br>
     Available at: [BOOTH](https://kakakakaka.booth.pm/items/7823113), [X (formerly Twitter)](https://x.com/kaeria_musi/status/2004904972606185690)
 
-1. fjktkm<br>
-    **バイナリから始めるフォント自作入門**<br>
-    *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, NITMic (Nagoya Institute of Technology Computer Club), November 15, 2025<br>
-    Available at: [BOOTH](https://nitmic.booth.pm/items/7701394), [GitHub](https://github.com/fjktkm/font-from-scratch)
-
-1. fjktkm<br>
-    **9 割が知らないフォントの話**<br>
-    *名古屋工業大学コンピュータ倶楽部誌 Archives 2024*, NITMic (Nagoya Institute of Technology Computer Club), November 16, 2024<br>
-    Available at: [BOOTH](https://nitmic.booth.pm/items/6645860)
-
 1. NITMic (Nagoya Institute of Technology Computer Club)<br>
     **名古屋工業大学コンピュータ倶楽部誌 Archives 2023**<br>
     *61st Koudaisai (Nagoya Institute of Technology Festival)*, November 18, 2023<br>
@@ -181,6 +171,23 @@ icon: material/brush
     *59th Koudaisai (Nagoya Institute of Technology Festival)*, November 20, 2021<br>
     Role: Logo, UI<br>
     Available at: [Club Magazine](https://nitmic.booth.pm/items/4322058)
+
+## Articles
+
+1. fjktkm<br>
+    **バイナリから始めるフォント自作入門**<br>
+    *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, NITMic (Nagoya Institute of Technology Computer Club), November 15, 2025<br>
+    Available at: [BOOTH](https://nitmic.booth.pm/items/7701394), [GitHub](https://github.com/fjktkm/font-from-scratch)
+
+1. fjktkm<br>
+    **名工大のロゴに使われているフォントは○○**<br>
+    *名工大 Advent Calendar 2024*, Day 5, December 3, 2024<br>
+    Available at: [note](https://note.com/fjktkm/n/n0f0dd9c0c834), [Advent Calendar](https://adventar.org/calendars/10625)
+
+1. fjktkm<br>
+    **9 割が知らないフォントの話**<br>
+    *名古屋工業大学コンピュータ倶楽部誌 Archives 2024*, NITMic (Nagoya Institute of Technology Computer Club), November 16, 2024<br>
+    Available at: [BOOTH](https://nitmic.booth.pm/items/6645860)
 
 ## Other Works
 

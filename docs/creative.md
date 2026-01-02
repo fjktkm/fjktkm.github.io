@@ -61,16 +61,6 @@ icon: material/brush
     担当: 編集協力, お品書きなど<br>
     関連 URL: [BOOTH](https://kakakakaka.booth.pm/items/7823113), [X（旧 Twitter）](https://x.com/kaeria_musi/status/2004904972606185690)
 
-1. fjktkm<br>
-    **バイナリから始めるフォント自作入門**<br>
-    *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, 名古屋工業大学コンピュータ倶楽部 NITMic, 2025 年 11 月 15 日<br>
-    関連 URL: [BOOTH](https://nitmic.booth.pm/items/7701394), [GitHub](https://github.com/fjktkm/font-from-scratch)
-
-1. fjktkm<br>
-    **9 割が知らないフォントの話**<br>
-    *名古屋工業大学コンピュータ倶楽部誌 Archives 2024*, 名古屋工業大学コンピュータ倶楽部 NITMic, 2024 年 11 月 16 日<br>
-    関連 URL: [BOOTH](https://nitmic.booth.pm/items/6645860)
-
 1. 名古屋工業大学コンピュータ倶楽部 NITMic<br>
     **名古屋工業大学コンピュータ倶楽部誌 Archives 2023**<br>
     *第 61 回名古屋工業大学工大祭*, 2023 年 11 月 18 日<br>
@@ -181,6 +171,23 @@ icon: material/brush
     *第 59 回名古屋工業大学工大祭*, 2021 年 11 月 20 日<br>
     担当: ロゴ, UI<br>
     関連 URL: [部誌](https://nitmic.booth.pm/items/4322058)
+
+## 記事
+
+1. fjktkm<br>
+    **バイナリから始めるフォント自作入門**<br>
+    *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, 名古屋工業大学コンピュータ倶楽部 NITMic, 2025 年 11 月 15 日<br>
+    関連 URL: [BOOTH](https://nitmic.booth.pm/items/7701394), [GitHub](https://github.com/fjktkm/font-from-scratch)
+
+1. fjktkm<br>
+    **名工大のロゴに使われているフォントは○○**<br>
+    *名工大 Advent Calendar 2024*, 5 日目, 2024 年 12 月 3 日<br>
+    関連 URL: [note](https://note.com/fjktkm/n/n0f0dd9c0c834), [Advent Calendar](https://adventar.org/calendars/10625)
+
+1. fjktkm<br>
+    **9 割が知らないフォントの話**<br>
+    *名古屋工業大学コンピュータ倶楽部誌 Archives 2024*, 名古屋工業大学コンピュータ倶楽部 NITMic, 2024 年 11 月 16 日<br>
+    関連 URL: [BOOTH](https://nitmic.booth.pm/items/6645860)
 
 ## その他
 
