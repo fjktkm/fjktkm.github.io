@@ -61,12 +61,12 @@ icon: material/brush
     担当: 編集協力, お品書きなど<br>
     関連 URL: [BOOTH](https://kakakakaka.booth.pm/items/7823113), [X（旧 Twitter）](https://x.com/kaeria_musi/status/2004904972606185690)
 
-1. 藤岡 拓夢<br>
+1. fjktkm<br>
     **バイナリから始めるフォント自作入門**<br>
     *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, 名古屋工業大学コンピュータ倶楽部 NITMic, 2025 年 11 月 15 日<br>
     関連 URL: [BOOTH](https://nitmic.booth.pm/items/7701394)
 
-1. 藤岡 拓夢<br>
+1. fjktkm<br>
     **9 割が知らないフォントの話**<br>
     *名古屋工業大学コンピュータ倶楽部誌 Archives 2024*, 名古屋工業大学コンピュータ倶楽部 NITMic, 2024 年 11 月 16 日<br>
     関連 URL: [BOOTH](https://nitmic.booth.pm/items/6645860)

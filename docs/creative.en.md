@@ -61,12 +61,12 @@ icon: material/brush
     Role: Editorial assistance, Booth menu design, etc.<br>
     Available at: [BOOTH](https://kakakakaka.booth.pm/items/7823113), [X (formerly Twitter)](https://x.com/kaeria_musi/status/2004904972606185690)
 
-1. Takumu Fujioka<br>
+1. fjktkm<br>
     **バイナリから始めるフォント自作入門**<br>
     *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, NITMic (Nagoya Institute of Technology Computer Club), November 15, 2025<br>
     Available at: [BOOTH](https://nitmic.booth.pm/items/7701394)
 
-1. Takumu Fujioka<br>
+1. fjktkm<br>
     **9 割が知らないフォントの話**<br>
     *名古屋工業大学コンピュータ倶楽部誌 Archives 2024*, NITMic (Nagoya Institute of Technology Computer Club), November 16, 2024<br>
     Available at: [BOOTH](https://nitmic.booth.pm/items/6645860)
