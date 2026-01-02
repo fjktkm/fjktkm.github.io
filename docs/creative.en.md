@@ -14,10 +14,10 @@ icon: material/brush
 ## Affiliations
 
 - [NITMic (Nagoya Institute of Technology Computer Club)](https://nitmic.club.nitech.ac.jp/)
-  - [Related articles on official site](https://nitmic.club.nitech.ac.jp/authors/fjktkm/)
+    - [Related articles on official site](https://nitmic.club.nitech.ac.jp/authors/fjktkm/)
 - [HYPERCUBE](https://hpcb-mass.com/)
 - NITech Affinity Creative Community
-  - A community of Affinity users at NITech that I organize
+    - A community of Affinity users at NITech that I organize
 
 ## Posters
 

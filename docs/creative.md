@@ -14,10 +14,10 @@ icon: material/brush
 ## 所属団体
 
 - [名古屋工業大学コンピュータ倶楽部 NITMic](https://nitmic.club.nitech.ac.jp/)
-  - [関連する公式サイトの記事一覧](https://nitmic.club.nitech.ac.jp/authors/fjktkm/)
+    - [関連する公式サイトの記事一覧](https://nitmic.club.nitech.ac.jp/authors/fjktkm/)
 - [HYPERCUBE](https://hpcb-mass.com/)
 - NITech Affinity Creative Community
-  - 自ら主催する名工大の Affinity ユーザーコミュニティ
+    - 自ら主催する名工大の Affinity ユーザーコミュニティ
 
 ## ポスター
 
