@@ -31,11 +31,11 @@ icon: material/school
    **パッチ埋め込みを用いた Transformer によるベクターフォントの再構成**<br>
    *第28回情報論的学習理論ワークショップ*, ポスター発表, 2025年11月13日
 
-2. 藤岡 拓夢, 田中 剛平<br>
+1. 藤岡 拓夢, 田中 剛平<br>
    **パッチ埋め込みを用いたTransformerによるベクターフォントの分類**<br>
    *第39回人工知能学会総合大会*, ポスター発表, 課題番号 3Win5-25, 2025年5月29日
 
-3. T. Fujioka, G. Tanaka<br>
+1. T. Fujioka, G. Tanaka<br>
    **Vector Font Generation with Transformer**<br>
    *2024 IRCN Retreat (Makuhari International Training Center)*, Poster, October 24, 2024
 
@@ -44,9 +44,9 @@ icon: material/school
 1. 藤岡 拓夢<br>
    **水コンピュータ**<br>
    *つくばScience Edge 2019*, ポスター発表, 2019年3月22日<br>
-   Available at: [https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
+   関連 URL: [https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
 
-2. 藤岡 拓夢<br>
+1. 藤岡 拓夢<br>
    **水コンピュータ**<br>
    *京都産業大学 益川塾 第11回シンポジウム*, ポスター発表, 2018年12月9日
 
@@ -54,4 +54,4 @@ icon: material/school
 
 1. **電影会賞**<br>
    電影会 名古屋工業大学電気系同窓会，2025年3月26日<br>
-   Available at: [https://www.denei.jp/news/1746175684.html](https://www.denei.jp/news/1746175684.html)
+   関連 URL: [https://www.denei.jp/news/1746175684.html](https://www.denei.jp/news/1746175684.html)
