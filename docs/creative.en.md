@@ -64,7 +64,7 @@ icon: material/brush
 1. fjktkm<br>
     **バイナリから始めるフォント自作入門**<br>
     *名古屋工業大学コンピュータ倶楽部誌 Archives 2025*, NITMic (Nagoya Institute of Technology Computer Club), November 15, 2025<br>
-    Available at: [BOOTH](https://nitmic.booth.pm/items/7701394)
+    Available at: [BOOTH](https://nitmic.booth.pm/items/7701394), [GitHub](https://github.com/fjktkm/font-from-scratch)
 
 1. fjktkm<br>
     **9 割が知らないフォントの話**<br>
