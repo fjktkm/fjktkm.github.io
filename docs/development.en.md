@@ -16,7 +16,7 @@ icon: material/code-tags
 - Infrastructure
     - Linux
     - NVIDIA GPU
-- Environment Setup
+- Development Environment
     - Dev Containers
     - Docker
     - uv
