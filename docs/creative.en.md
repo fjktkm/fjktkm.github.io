@@ -108,7 +108,7 @@ icon: material/brush
     **Lunatic Moment**<br>
     *M3 (Music Media-Mix Market) 2023 Autumn*, M-11a, October 29, 2023<br>
     Role: Disc design, Jacket design<br>
-    Available at: [Official Site](https://nitmic.club.nitech.ac.jp/post/lunatic-moment/)
+    Available at: [Official Site](https://nitmic.club.nitech.ac.jp/post/m3-2023-autumn/)
 
 1. HYPERCUBE<br>
     **FRAGMENTS OF BLUE**<br>

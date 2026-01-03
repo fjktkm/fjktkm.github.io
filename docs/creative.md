@@ -108,7 +108,7 @@ icon: material/brush
     **Lunatic Moment**<br>
     *音系・メディアミックス同人即売会 M3 2023 秋*, M-11a, 2023 年 10 月 29 日<br>
     担当: 盤面デザイン, ジャケット<br>
-    関連 URL: [公式サイト](https://nitmic.club.nitech.ac.jp/post/lunatic-moment/)
+    関連 URL: [公式サイト](https://nitmic.club.nitech.ac.jp/post/m3-2023-autumn/)
 
 1. HYPERCUBE<br>
     **FRAGMENTS OF BLUE**<br>
