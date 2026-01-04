@@ -60,7 +60,7 @@ icon: material/brush
     **MEGA YAN-MAX!!!!**<br>
     *コミックマーケット 107*, 南1ホール S11b, 2025 年 12 月 30 日<br>
     担当: 編集協力, お品書きなど<br>
-    関連 URL: [BOOTH](https://kakakakaka.booth.pm/items/7823113), [X（旧 Twitter）](https://x.com/kaeria_musi/status/2004904972606185690)
+    関連 URL: [X（旧 Twitter）](https://x.com/kaeria_musi/status/2004904972606185690)
 
 1. 名古屋工業大学コンピュータ倶楽部 NITMic<br>
     **名古屋工業大学コンピュータ倶楽部誌 Archives 2023**<br>

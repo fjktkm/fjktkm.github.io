@@ -60,7 +60,7 @@ icon: material/brush
     **MEGA YAN-MAX!!!!**<br>
     *Comiket 107*, South Hall 1, S11b, December 30, 2025<br>
     Role: Editorial assistance, Booth menu design, etc.<br>
-    Available at: [BOOTH](https://kakakakaka.booth.pm/items/7823113), [X (formerly Twitter)](https://x.com/kaeria_musi/status/2004904972606185690)
+    Available at: [X (formerly Twitter)](https://x.com/kaeria_musi/status/2004904972606185690)
 
 1. NITMic (Nagoya Institute of Technology Computer Club)<br>
     **名古屋工業大学コンピュータ倶楽部誌 Archives 2023**<br>
