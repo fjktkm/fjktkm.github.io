@@ -13,6 +13,7 @@ icon: material/school
 |---|---|
 | 2025–Present | Nagoya Institute of Technology<br>Graduate School of Engineering, Program of Computational Intelligence<br>[G. Tanaka Laboratory](https://dyn.web.nitech.ac.jp/) |
 | 2021–2024 | Nagoya Institute of Technology<br>Faculty of Engineering, Department of Computer Science |
+| 2016–2021 | Taki Junior & Senior High School |
 
 - Completed the Mathematical Information Advanced Course within the Mathematics, Data Science, and AI Program “数理情報履修モデル アドバンストコース” at Nagoya Institute of Technology.
 - Currently enrolled in the Graduate School Special Program “実世界産業におけるデータサイエンス実践能力強化プログラム” at Nagoya Institute of Technology.
