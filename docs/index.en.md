@@ -25,3 +25,4 @@ I'm a master's student at the Graduate School of Engineering, Nagoya Institute o
 - [Zenn](https://zenn.dev/fjktkm)
 - [note](https://note.com/fjktkm)
 - [X (formerly Twitter)](https://x.com/fjktkm)
+- [connpass](https://connpass.com/user/fjktkm/)

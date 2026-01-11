@@ -25,3 +25,4 @@ icon: material/home
 - [Zenn](https://zenn.dev/fjktkm)
 - [note](https://note.com/fjktkm)
 - [X (formerly Twitter)](https://x.com/fjktkm)
+- [connpass](https://connpass.com/user/fjktkm/)
