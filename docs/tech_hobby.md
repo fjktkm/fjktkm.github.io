@@ -20,6 +20,9 @@ icon: material/devices
 
 ## ホームラボ
 
+- ルーター: Ubiquiti UniFi Express
+- スイッチ: Ubiquiti UniFi USW Lite 8 PoE
+- アクセスポイント: Ubiquiti UniFi U7 Pro
 - Raspberry Pi 5 8GB (1)
     - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
     - Unifi Network Application
@@ -31,12 +34,6 @@ icon: material/devices
 - Raspberry Pi 5 8GB (3)
     - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
     - Home Assistant
-
-## ネットワーク機器
-
-- ルーター: Ubiquiti UniFi Express
-- スイッチ: Ubiquiti UniFi USW Lite 8 PoE
-- アクセスポイント: Ubiquiti UniFi U7 Pro
 
 ## オーディオ機器
 
