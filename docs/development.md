@@ -29,7 +29,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **ベクターフォントの機械学習用データセットライブラリ TorchFont**<br>
     開発中<br>
-    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/fjktkm/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
 
 1. fjktkm<br>
     **PDF プレビュー用 Discord Bot pdf2image**<br>
@@ -46,7 +46,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **TorchFont のドキュメント**<br>
     *Re;Build in 愛知 2025*, 2025 年 10 月 29 日<br>
-    関連 URL: [connpass](https://cyberagent.connpass.com/event/370993/), [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/fjktkm/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
+    関連 URL: [connpass](https://cyberagent.connpass.com/event/370993/), [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
 
 1. fjktkm, Mass<br>
     **AI Font Booster**<br>

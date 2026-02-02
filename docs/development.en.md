@@ -29,7 +29,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **TorchFont: Machine Learning Dataset Library for Vector Fonts**<br>
     In Development<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/fjktkm/torchfont), [Documentation](https://torchfont.readthedocs.io/)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
 1. fjktkm<br>
     **pdf2image: Discord Bot for PDF Preview**<br>
@@ -46,7 +46,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **TorchFont Documentation**<br>
     *Re;Build in 愛知 2025*, October 29, 2025<br>
-    Available at: [connpass](https://cyberagent.connpass.com/event/370993/), [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/fjktkm/torchfont), [Documentation](https://torchfont.readthedocs.io/)
+    Available at: [connpass](https://cyberagent.connpass.com/event/370993/), [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
 1. fjktkm, Mass<br>
     **AI Font Booster**<br>
