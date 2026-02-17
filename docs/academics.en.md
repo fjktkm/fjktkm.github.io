@@ -4,7 +4,7 @@ icon: material/school
 
 ## Research Interests
 
-- Deep Learning for Fonts and Vector Graphics
+- Vector Font Generation
 - Reservoir Computing for Control Applications
 
 ## Education
