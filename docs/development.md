@@ -81,6 +81,11 @@ icon: material/code-tags
 ## 技術ブログ
 
 1. fjktkm<br>
+    **フォントはベクター形式でも文字認識できるか？**<br>
+    2026 年 2 月 9 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/2ee64f88276068)
+
+1. fjktkm<br>
     **Claude と Codex の認証を永続化する Dev Container Feature**<br>
     2024 年 12 月 31 日<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/4c2cf466a057dc), [GitHub](https://github.com/fjktkm/devcontainer-features)
@@ -93,7 +98,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
     *名工大 Advent Calendar 2025*, シリーズ 1, 21 日目, 2025 年 12 月 20 日<br>
-    関連 URL: [GitHub](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
 
 1. fjktkm<br>
     **Google Fonts の収録状況をヒートマップで可視化**<br>
