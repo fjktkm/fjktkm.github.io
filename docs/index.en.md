@@ -16,7 +16,7 @@ I'm a master's student at the Graduate School of Engineering, Nagoya Institute o
 
 ## My Vision
 
-- [The Future of Creative Work Inspired by Software Development (Japanese article)](https://zenn.dev/fjktkm/articles/6a3286caa63114)
+- [The Future of Creative Work: A Software Development-Inspired Perspective](https://zenn.dev/fjktkm/articles/6a3286caa63114?locale=en)
 
 ## Socials
 

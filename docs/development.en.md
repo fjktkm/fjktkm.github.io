@@ -29,7 +29,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **TorchFont: Machine Learning Dataset Library for Vector Fonts**<br>
     In Development<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8?locale=en), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
 1. fjktkm<br>
     **pdf2image: Discord Bot for PDF Preview**<br>
@@ -46,7 +46,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **TorchFont Documentation**<br>
     *Re;Build in 愛知 2025*, October 29, 2025<br>
-    Available at: [connpass](https://cyberagent.connpass.com/event/370993/), [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
+    Available at: [connpass](https://cyberagent.connpass.com/event/370993/), [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8?locale=en), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
 1. fjktkm, Mass<br>
     **AI Font Booster**<br>
@@ -81,9 +81,14 @@ icon: material/code-tags
 ## Technical Blog
 
 1. fjktkm<br>
-    **Claude と Codex の認証を永続化する Dev Container Feature**<br>
+    **Can Characters Be Recognized in Vector Font Format?**<br>
+    February 9, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/2ee64f88276068?locale=en)
+
+1. fjktkm<br>
+    **Dev Container Feature for Persisting Claude and Codex Authentication**<br>
     December 31, 2024<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/4c2cf466a057dc), [GitHub](https://github.com/fjktkm/devcontainer-features)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/4c2cf466a057dc?locale=en), [GitHub](https://github.com/fjktkm/devcontainer-features)
 
 1. fjktkm<br>
     **Dev Container による LaTeX 環境構築のベストプラクティス**<br>
@@ -93,27 +98,27 @@ icon: material/code-tags
 1. fjktkm<br>
     **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
     *名工大 Advent Calendar 2025*, Series 1, Day 21, December 20, 2025<br>
-    Available at: [GitHub](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
 
 1. fjktkm<br>
-    **Google Fonts の収録状況をヒートマップで可視化**<br>
+    **Visualizing Google Fonts Character Coverage with Heatmaps**<br>
     August 3, 2025<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/fe563dda164063), [GitHub](https://github.com/fjktkm/google-fonts-heatmap)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/fe563dda164063?locale=en), [GitHub](https://github.com/fjktkm/google-fonts-heatmap)
 
 1. fjktkm<br>
-    **LaTeX の環境構築は Docker 使ったほうが早い**<br>
+    **Setting up a LaTeX environment is faster with Docker**<br>
     February 25, 2025<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/f43658e74f5814), [GitHub](https://github.com/fjktkm/tex-local-vs-docker)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/f43658e74f5814?locale=en), [GitHub](https://github.com/fjktkm/tex-local-vs-docker)
 
 1. fjktkm<br>
-    **ZIP ファイル用の Git カスタムマージドライバを作ってみた**<br>
+    **Building a Git Custom Merge Driver for ZIP Files**<br>
     April 5, 2024<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/ecfe327ea246f8), [GitHub](https://github.com/fjktkm/zip-merge-driver)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/ecfe327ea246f8?locale=en), [GitHub](https://github.com/fjktkm/zip-merge-driver)
 
 1. fjktkm<br>
-    **Dev Container による Haskell 環境構築**<br>
+    **Setting Up a Haskell Environment with Dev Containers**<br>
     March 31, 2024<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/047d7c92c4df3f), [GitHub](https://github.com/fjktkm/haskell-devcontainer)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/047d7c92c4df3f?locale=en), [GitHub](https://github.com/fjktkm/haskell-devcontainer)
 
 1. fjktkm<br>
     **部会の連絡を GitHub Actions で自動化したい**<br>
@@ -121,9 +126,9 @@ icon: material/code-tags
     Available at: [Zenn](https://zenn.dev/nitmic/articles/2f00ec58e963e9), [GitHub](https://github.com/fjktkm/auto-meeting-announcements)
 
 1. fjktkm<br>
-    **Prolog を Jupyter Notebook で動かしたい**<br>
+    **Running Prolog in Jupyter Notebook**<br>
     *NITMic Advent Calendar 2023*, Day 11, December 30, 2023<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/f0093cefc442d2), [GitHub](https://github.com/fjktkm/prolog-jupyter-kernel-example), [Advent Calendar](https://adventar.org/calendars/8701)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/f0093cefc442d2?locale=en), [GitHub](https://github.com/fjktkm/prolog-jupyter-kernel-example), [Advent Calendar](https://adventar.org/calendars/8701)
 
 1. fjktkm<br>
     **Quarto を用いたアジャイルなレポート執筆環境**<br>
