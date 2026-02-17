@@ -134,25 +134,3 @@ icon: material/code-tags
     **Quarto を用いたアジャイルなレポート執筆環境**<br>
     *NITMic Advent Calendar 2023*, Day 4, December 29, 2023<br>
     Available at: [Zenn](https://zenn.dev/nitmic/articles/7dd7e95f19213d), [Advent Calendar](https://adventar.org/calendars/8701)
-
-## General Blog
-
-1. fjktkm<br>
-    **Ubiquiti のネットワーク機器を既存ルーターにノータッチで導入する方法**<br>
-    August 16, 2025<br>
-    Available at: [note](https://note.com/fjktkm/n/n38553d5b8d9b)
-
-1. fjktkm<br>
-    **Windows でモニタの拡大率を 100% 未満に設定する方法**<br>
-    February 7, 2025<br>
-    Available at: [note](https://note.com/fjktkm/n/n2f96477ae382)
-
-1. fjktkm<br>
-    **Palit GeForce RTX 3060 Ti の LED を物理的に消したい**<br>
-    September 12, 2024<br>
-    Available at: [note](https://note.com/fjktkm/n/n94104f9791bf)
-
-1. fjktkm<br>
-    **Dell XPS 13 9305 のバッテリー交換と異音問題の対処法**<br>
-    February 15, 2024<br>
-    Available at: [note](https://note.com/fjktkm/n/n90396b066a93)
