@@ -29,12 +29,16 @@ icon: material/school
 ### National Conferences and Meetings
 
 1. T. Fujioka, G. Tanaka<br>
-   **パッチ埋め込みを用いた Transformer によるベクターフォントの再構成 (in Japanese)**<br>
-   *The 28th Information-Based Induction Sciences Workshop (第28回情報論的学習理論ワークショップ)*, Poster, November 13, 2025
+   **Latent Space Interpolation of Vector Fonts with a Transformer VAE Using Patch Embedding**<br>
+   *The Institute of Electronics, Information and Communication Engineers (IEICE) General Conference*, Oral Presentation, March 12, 2026
 
 1. T. Fujioka, G. Tanaka<br>
-   **パッチ埋め込みを用いたTransformerによるベクターフォントの分類 (in Japanese)**<br>
-   *The 39th Annual Conference of the Japanese Society for Artificial Intelligence (第39回人工知能学会総合大会)*, Poster, Session 3Win5-25, May 29, 2025
+   **パッチ埋め込みを用いた Transformer によるベクターフォントの再構成 (in Japanese)**<br>
+   *The 28th Information-Based Induction Sciences Workshop (IBIS)*, Poster, November 13, 2025
+
+1. T. Fujioka, G. Tanaka<br>
+   **Transformer-Based Vector Font Classification with Patch Embedding**<br>
+   *The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI)*, Poster, Session 3Win5-25, May 29, 2025
 
 1. T. Fujioka, G. Tanaka<br>
    **Vector Font Generation with Transformer**<br>
@@ -43,12 +47,12 @@ icon: material/school
 ## Research Activities in High School
 
 1. Takumu Fujioka<br>
-   **Water Computer (水コンピュータ)**<br>
+   **Water Computer**<br>
    *Tsukuba Science Edge 2019*, Poster Presentation, March 22, 2019
    Available at: [https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
 
 1. Takumu Fujioka<br>
-   **Water Computer (水コンピュータ)**<br>
+   **Water Computer**<br>
    *Kyoto Sangyo University Masukawa Juku 11th Symposium*, Poster Presentation, December 9, 2018
 
 ## Awards
