@@ -81,6 +81,11 @@ icon: material/code-tags
 ## 技術ブログ
 
 1. fjktkm<br>
+    **Rust + Cairo によるソフトウェア開発ライクなロゴデザイン**<br>
+    2026 年 3 月 20 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/2a29874805d0b8)
+
+1. fjktkm<br>
     **フォントはベクター形式でも文字認識できるか？**<br>
     2026 年 2 月 9 日<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/2ee64f88276068)

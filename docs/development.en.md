@@ -81,6 +81,11 @@ icon: material/code-tags
 ## Technical Blog
 
 1. fjktkm<br>
+    **Software Development-Style Logo Design with Rust + Cairo**<br>
+    March 20, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/2a29874805d0b8?locale=en)
+
+1. fjktkm<br>
     **Can Characters Be Recognized in Vector Font Format?**<br>
     February 9, 2026<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/2ee64f88276068?locale=en)
