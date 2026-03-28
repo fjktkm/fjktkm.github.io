@@ -101,11 +101,6 @@ icon: material/code-tags
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/6206fd0f4b52d8), [GitHub](https://github.com/fjktkm/latex-devcontainer), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
 
 1. fjktkm<br>
-    **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
-    *名工大 Advent Calendar 2025*, Series 1, Day 21, December 20, 2025<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
-
-1. fjktkm<br>
     **Visualizing Google Fonts Character Coverage with Heatmaps**<br>
     August 3, 2025<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/fe563dda164063?locale=en), [GitHub](https://github.com/fjktkm/google-fonts-heatmap)
@@ -139,3 +134,15 @@ icon: material/code-tags
     **Quarto を用いたアジャイルなレポート執筆環境**<br>
     *NITMic Advent Calendar 2023*, Day 4, December 29, 2023<br>
     Available at: [Zenn](https://zenn.dev/nitmic/articles/7dd7e95f19213d), [Advent Calendar](https://adventar.org/calendars/8701)
+
+## General Blog
+
+1. fjktkm<br>
+    **エクスプローラーからフォルダを直接 VS Code で開く方法**<br>
+    March 27, 2026<br>
+    Available at: [note](https://note.com/fjktkm/n/n69f59cc8306b)
+
+1. fjktkm<br>
+    **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
+    *名工大 Advent Calendar 2025*, Series 1, Day 21, December 20, 2025<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)

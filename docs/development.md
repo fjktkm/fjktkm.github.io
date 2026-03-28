@@ -101,11 +101,6 @@ icon: material/code-tags
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/6206fd0f4b52d8), [GitHub](https://github.com/fjktkm/latex-devcontainer), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
 
 1. fjktkm<br>
-    **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
-    *名工大 Advent Calendar 2025*, シリーズ 1, 21 日目, 2025 年 12 月 20 日<br>
-    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
-
-1. fjktkm<br>
     **Google Fonts の収録状況をヒートマップで可視化**<br>
     2025 年 8 月 3 日<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/fe563dda164063), [GitHub](https://github.com/fjktkm/google-fonts-heatmap)
@@ -139,3 +134,15 @@ icon: material/code-tags
     **Quarto を用いたアジャイルなレポート執筆環境**<br>
     *NITMic Advent Calendar 2023*, 4 日目, 2023 年 12 月 29 日<br>
     関連 URL: [Zenn](https://zenn.dev/nitmic/articles/7dd7e95f19213d), [Advent Calendar](https://adventar.org/calendars/8701)
+
+## 一般向けブログ
+
+1. fjktkm<br>
+    **エクスプローラーからフォルダを直接 VS Code で開く方法**<br>
+    2026 年 3 月 27 日<br>
+    関連 URL: [note](https://note.com/fjktkm/n/n69f59cc8306b)
+
+1. fjktkm<br>
+    **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
+    *名工大 Advent Calendar 2025*, シリーズ 1, 21 日目, 2025 年 12 月 20 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)

@@ -53,6 +53,16 @@ icon: material/devices
 ## ブログ
 
 1. fjktkm<br>
+    **JetKVM と ATX Extension Board で自宅 PC をリモートコントロール**<br>
+    2026 年 3 月 28 日<br>
+    関連 URL: [note](https://note.com/fjktkm/n/na9c99b50e22e)
+
+1. fjktkm<br>
+    **UniFi Network アプリにおける Poor AP Link Speed アラートの対処法**<br>
+    2026 年 3 月 28 日<br>
+    関連 URL: [note](https://note.com/fjktkm/n/n2ddbca4207da)
+
+1. fjktkm<br>
     **Ubiquiti のネットワーク機器を既存ルーターにノータッチで導入する方法**<br>
     2025 年 8 月 16 日<br>
     関連 URL: [note](https://note.com/fjktkm/n/n38553d5b8d9b)
