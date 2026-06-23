@@ -81,6 +81,11 @@ icon: material/code-tags
 ## 技術ブログ
 
 1. fjktkm<br>
+    **情報系のための Dev Container による LaTeX 環境構築**<br>
+    2026 年 4 月 28 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)
+
+1. fjktkm<br>
     **Rust + Cairo によるソフトウェア開発ライクなロゴデザイン**<br>
     2026 年 3 月 20 日<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/2a29874805d0b8)
@@ -91,14 +96,14 @@ icon: material/code-tags
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/2ee64f88276068)
 
 1. fjktkm<br>
-    **Claude と Codex の認証を永続化する Dev Container Feature**<br>
+    **コーディングエージェントの認証を永続化する Dev Container Feature**<br>
     2024 年 12 月 31 日<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/4c2cf466a057dc), [GitHub](https://github.com/fjktkm/devcontainer-features)
 
 1. fjktkm<br>
     **Dev Container による LaTeX 環境構築のベストプラクティス**<br>
     *名工大 Advent Calendar 2025*, シリーズ 1, 25 日目, 2024 年 12 月 24 日<br>
-    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/6206fd0f4b52d8), [GitHub](https://github.com/fjktkm/latex-devcontainer), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
+    関連 URL: [Zenn](https://zenn.dev/nitmic/articles/6206fd0f4b52d8), [GitHub](https://github.com/fjktkm/latex-devcontainer), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
 
 1. fjktkm<br>
     **Google Fonts の収録状況をヒートマップで可視化**<br>
@@ -108,7 +113,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **LaTeX の環境構築は Docker 使ったほうが早い**<br>
     2025 年 2 月 25 日<br>
-    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/f43658e74f5814), [GitHub](https://github.com/fjktkm/tex-local-vs-docker)
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/f43658e74f5814), [GitHub](https://github.com/fjktkm/texlive-setup-benchmark)
 
 1. fjktkm<br>
     **ZIP ファイル用の Git カスタムマージドライバを作ってみた**<br>
@@ -145,4 +150,4 @@ icon: material/code-tags
 1. fjktkm<br>
     **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
     *名工大 Advent Calendar 2025*, シリーズ 1, 21 日目, 2025 年 12 月 20 日<br>
-    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
+    関連 URL: [Zenn](https://zenn.dev/nitmic/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)

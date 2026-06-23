@@ -21,6 +21,11 @@ I'm a master's student at the Graduate School of Engineering, Nagoya Institute o
     In Development<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8?locale=en), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
+1. fjktkm<br>
+    **情報系のための Dev Container による LaTeX 環境構築**<br>
+    April 28, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)
+
 1. NITMic (Nagoya Institute of Technology Computer Club)<br>
     **Official Website**<br>
     Role: CI/CD automation, Infrastructure management<br>

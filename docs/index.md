@@ -21,6 +21,11 @@ icon: material/home
     開発中<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
 
+1. fjktkm<br>
+    **情報系のための Dev Container による LaTeX 環境構築**<br>
+    2026 年 4 月 28 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)
+
 1. 名古屋工業大学コンピュータ倶楽部 NITMic<br>
     **公式サイト**<br>
     役割: CI/CD 自動化, インフラ管理<br>

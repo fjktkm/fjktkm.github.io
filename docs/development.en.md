@@ -81,6 +81,11 @@ icon: material/code-tags
 ## Technical Blog
 
 1. fjktkm<br>
+    **情報系のための Dev Container による LaTeX 環境構築**<br>
+    April 28, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)
+
+1. fjktkm<br>
     **Software Development-Style Logo Design with Rust + Cairo**<br>
     March 20, 2026<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/2a29874805d0b8?locale=en)
@@ -91,14 +96,14 @@ icon: material/code-tags
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/2ee64f88276068?locale=en)
 
 1. fjktkm<br>
-    **Dev Container Feature for Persisting Claude and Codex Authentication**<br>
+    **Persisting Coding Agent Authentication with Dev Container Features**<br>
     December 31, 2024<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/4c2cf466a057dc?locale=en), [GitHub](https://github.com/fjktkm/devcontainer-features)
 
 1. fjktkm<br>
-    **Dev Container による LaTeX 環境構築のベストプラクティス**<br>
+    **Best Practices for Setting Up a LaTeX Environment with Dev Container**<br>
     *名工大 Advent Calendar 2025*, Series 1, Day 25, December 24, 2024<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/6206fd0f4b52d8), [GitHub](https://github.com/fjktkm/latex-devcontainer), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
+    Available at: [Zenn](https://zenn.dev/nitmic/articles/6206fd0f4b52d8?locale=en), [GitHub](https://github.com/fjktkm/latex-devcontainer), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
 
 1. fjktkm<br>
     **Visualizing Google Fonts Character Coverage with Heatmaps**<br>
@@ -108,7 +113,7 @@ icon: material/code-tags
 1. fjktkm<br>
     **Setting up a LaTeX environment is faster with Docker**<br>
     February 25, 2025<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/f43658e74f5814?locale=en), [GitHub](https://github.com/fjktkm/tex-local-vs-docker)
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/f43658e74f5814?locale=en), [GitHub](https://github.com/fjktkm/texlive-setup-benchmark)
 
 1. fjktkm<br>
     **Building a Git Custom Merge Driver for ZIP Files**<br>
@@ -121,9 +126,9 @@ icon: material/code-tags
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/047d7c92c4df3f?locale=en), [GitHub](https://github.com/fjktkm/haskell-devcontainer)
 
 1. fjktkm<br>
-    **部会の連絡を GitHub Actions で自動化したい**<br>
+    **Automating Meeting Announcements with GitHub Actions**<br>
     March 7, 2024<br>
-    Available at: [Zenn](https://zenn.dev/nitmic/articles/2f00ec58e963e9), [GitHub](https://github.com/fjktkm/auto-meeting-announcements)
+    Available at: [Zenn](https://zenn.dev/nitmic/articles/2f00ec58e963e9?locale=en), [GitHub](https://github.com/fjktkm/auto-meeting-announcements)
 
 1. fjktkm<br>
     **Running Prolog in Jupyter Notebook**<br>
@@ -131,9 +136,9 @@ icon: material/code-tags
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/f0093cefc442d2?locale=en), [GitHub](https://github.com/fjktkm/prolog-jupyter-kernel-example), [Advent Calendar](https://adventar.org/calendars/8701)
 
 1. fjktkm<br>
-    **Quarto を用いたアジャイルなレポート執筆環境**<br>
+    **Agile Report Writing with Quarto**<br>
     *NITMic Advent Calendar 2023*, Day 4, December 29, 2023<br>
-    Available at: [Zenn](https://zenn.dev/nitmic/articles/7dd7e95f19213d), [Advent Calendar](https://adventar.org/calendars/8701)
+    Available at: [Zenn](https://zenn.dev/nitmic/articles/7dd7e95f19213d?locale=en), [Advent Calendar](https://adventar.org/calendars/8701)
 
 ## General Blog
 
@@ -143,6 +148,6 @@ icon: material/code-tags
     Available at: [note](https://note.com/fjktkm/n/n69f59cc8306b)
 
 1. fjktkm<br>
-    **仮想化とリモート接続の 2 軸に基づく開発環境の整理**<br>
+    **Organizing Development Environments Based on Virtualization and Remote Connectivity**<br>
     *名工大 Advent Calendar 2025*, Series 1, Day 21, December 20, 2025<br>
-    Available at: [Zenn](https://zenn.dev/fjktkm/articles/ef350ece5678a8), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)
+    Available at: [Zenn](https://zenn.dev/nitmic/articles/ef350ece5678a8?locale=en), [Advent Calendar](https://qiita.com/advent-calendar/2025/nitech)

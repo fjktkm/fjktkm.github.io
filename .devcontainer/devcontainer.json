@@ -18,6 +18,7 @@
 	"containerEnv": {
 		"UV_LINK_MODE": "copy"
 	},
+	"onCreateCommand": "sudo chown -R vscode:vscode /root/.cache/uv .venv",
 	"postCreateCommand": "uv sync",
 	"customizations": {
 		"vscode": {
@@ -27,5 +28,6 @@
 				"tamasfe.even-better-toml"
 			]
 		}
-	}
+	},
+	"remoteUser": "vscode"
 }
