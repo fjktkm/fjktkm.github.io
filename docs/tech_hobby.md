@@ -20,9 +20,10 @@ icon: material/devices
 
 ## ホームラボ
 
-- ルーター: Ubiquiti UniFi Express
-- スイッチ: Ubiquiti UniFi USW Lite 8 PoE
+- ルーター: Ubiquiti UniFi Dream Machine Special Edition
 - アクセスポイント: Ubiquiti UniFi U7 Pro
+- IP-KVM: JetKVM
+    - 関連 URL: [note](https://note.com/fjktkm/n/na9c99b50e22e)
 - Raspberry Pi 5 8GB (1)
     - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
     - Unifi Network Application
@@ -49,6 +50,7 @@ icon: material/devices
 - マウス: Logicool M575
 - ペンタブ: Wacom Cintiq 16
 - 左手デバイス: TourBox NEO
+- Web カメラ: Insta360 Link 2
 
 ## ブログ
 

@@ -20,9 +20,10 @@ icon: material/devices
 
 ## Home Lab
 
-- Router: Ubiquiti UniFi Express
-- Switch: Ubiquiti UniFi USW Lite 8 PoE
+- Router: Ubiquiti UniFi Dream Machine Special Edition
 - Access Point: Ubiquiti UniFi U7 Pro
+- IP-KVM: JetKVM
+    - Available at: [note](https://note.com/fjktkm/n/na9c99b50e22e)
 - Raspberry Pi 5 8GB (1)
     - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
     - Unifi Network Application
@@ -49,6 +50,7 @@ icon: material/devices
 - Mouse: Logicool M575
 - Pen Tablet: Wacom Cintiq 16
 - Macro Pad: TourBox NEO
+- Webcam: Insta360 Link 2
 
 ## Blog
 

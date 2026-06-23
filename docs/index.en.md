@@ -4,7 +4,7 @@ icon: material/home
 
 ## About Me
 
-I'm a master's student at the Graduate School of Engineering, Nagoya Institute of Technology. My work focuses on bridging technology and creativity so that both fields can inform each other.
+I'm a master's student at the Graduate School of Engineering, Nagoya Institute of Technology. My work focuses on bridging technology and creative so that both fields can inform each other.
 
 ## My Interests
 
