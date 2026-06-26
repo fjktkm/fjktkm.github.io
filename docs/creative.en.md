@@ -81,6 +81,11 @@ icon: material/brush
 ## CD Jackets
 
 1. HYPERCUBE<br>
+    **Cyanographia**<br>
+    *ふたばフラット*, A-09, June 28, 2026<br>
+    Role: Jacket design, Booth menu design, etc.
+
+1. HYPERCUBE<br>
     **Crescent EP**<br>
     *そうぞうパレッツ名古屋 2025*, え-12, July 13, 2025<br>
     Role: Jacket design, Booth menu design, etc.<br>

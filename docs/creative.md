@@ -81,6 +81,11 @@ icon: material/brush
 ## CD ジャケット
 
 1. HYPERCUBE<br>
+    **Cyanographia**<br>
+    *ふたばフラット*, A-09, 2026 年 6 月 28 日<br>
+    担当: ジャケット, お品書きなど
+
+1. HYPERCUBE<br>
     **Crescent EP**<br>
     *そうぞうパレッツ名古屋 2025*, え-12, 2025 年 7 月 13 日<br>
     担当: ジャケット, お品書きなど<br>
