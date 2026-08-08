@@ -27,7 +27,7 @@ title: 開発
 ## プロジェクト
 
 1. fjktkm<br>
-    **ベクターフォントの機械学習用データセットライブラリ TorchFont**<br>
+    **ベクターフォントの機械学習ライブラリ TorchFont**<br>
     開発中<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
 

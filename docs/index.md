@@ -2,48 +2,45 @@
 layout: home
 
 hero:
-  name: Takumu Fujioka
-  text: テクノロジーとクリエイティブの橋渡し
-  tagline: 名古屋工業大学大学院 修士課程．ベクターグラフィックス・タイポグラフィ・機械学習に関心があります．
+  name: FUJIOKA Takumu
+  text: クリエイティブと開発
+  tagline: グラフィックデザインが好きな情報系の学生で，研究ではベクターフォント生成に取り組んでいます．
   image:
     src: /logo.svg
-    alt: Takumu Fujioka
+    alt: FUJIOKA Takumu
   actions:
     - theme: brand
-      text: Academics
+      text: 学術
       link: /academics
     - theme: alt
-      text: Creative
+      text: クリエイティブ
       link: /creative
     - theme: alt
-      text: Development
+      text: 開発
       link: /development
     - theme: alt
-      text: Tech Hobby
+      text: 技術趣味
       link: /tech_hobby
 
 features:
-  - icon: 🔤
-    title: ベクターグラフィックス
-    details: SVG などのベクター形式を用いた表現・制作
+  - icon: 🎨
+    title: グラフィックデザイン
+    details: Affinity を使った部誌の編集や CD ジャケットなどの制作
   - icon: 🖋️
-    title: タイポグラフィ
-    details: 文字のデザインと機械学習によるフォント生成
-  - icon: 📖
-    title: 組版
-    details: LaTeX などによる文書の組版技術
-  - icon: 🤖
-    title: 機械学習
-    details: PyTorch を用いたモデル開発とデータセット設計
-  - icon: 🛠️
-    title: Creative x DevOps
-    details: 制作物を支える CI/CD・インフラの自動化
+    title: ベクターフォント生成
+    details: ベクターフォント生成の研究や，機械学習ライブラリ TorchFont の開発
+  - icon: 🧠
+    title: リザバーコンピューティング
+    details: リザバーコンピューティングの制御応用に関する研究
+  - icon: 🐳
+    title: Dev Container
+    details: LaTeX 執筆用 Dev Container テンプレートの開発・公開
 ---
 
 ## ハイライト
 
 1. fjktkm<br>
-    **ベクターフォントの機械学習用データセットライブラリ TorchFont**<br>
+    **ベクターフォントの機械学習ライブラリ TorchFont**<br>
     開発中<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
 

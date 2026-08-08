@@ -27,7 +27,7 @@ title: Development
 ## Projects
 
 1. fjktkm<br>
-    **TorchFont: Machine Learning Dataset Library for Vector Fonts**<br>
+    **TorchFont: Machine Learning Library for Vector Fonts**<br>
     In Development<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8?locale=en), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 

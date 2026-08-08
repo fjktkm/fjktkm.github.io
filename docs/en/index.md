@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: Takumu Fujioka
-  text: Bridging Technology and Creative
-  tagline: Master's student at Nagoya Institute of Technology, interested in vector graphics, typography, and machine learning.
+  name: FUJIOKA Takumu
+  text: Creative and Development
+  tagline: A computer science student who loves graphic design, researching vector font generation.
   image:
     src: /logo.svg
-    alt: Takumu Fujioka
+    alt: FUJIOKA Takumu
   actions:
     - theme: brand
       text: Academics
@@ -23,27 +23,24 @@ hero:
       link: /en/tech_hobby
 
 features:
-  - icon: 🔤
-    title: Vector Graphics
-    details: Expression and production using vector formats such as SVG
+  - icon: 🎨
+    title: Graphic Design
+    details: Club magazine editing and CD jacket design with Affinity
   - icon: 🖋️
-    title: Typography
-    details: Type design and font generation with machine learning
-  - icon: 📖
-    title: Typesetting
-    details: Document typesetting technologies such as LaTeX
-  - icon: 🤖
-    title: Machine Learning
-    details: Model development and dataset design with PyTorch
-  - icon: 🛠️
-    title: Creative x DevOps
-    details: CI/CD and infrastructure automation supporting creative work
+    title: Vector Font Generation
+    details: Researching vector font generation, including the TorchFont library
+  - icon: 🧠
+    title: Reservoir Computing
+    details: Researching reservoir computing for control applications
+  - icon: 🐳
+    title: Dev Container
+    details: Built and published a Dev Container template for LaTeX writing
 ---
 
 ## Highlights
 
 1. fjktkm<br>
-    **TorchFont: Machine Learning Dataset Library for Vector Fonts**<br>
+    **TorchFont: Machine Learning Library for Vector Fonts**<br>
     In Development<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8?locale=en), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
