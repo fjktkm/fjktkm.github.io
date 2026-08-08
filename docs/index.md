@@ -68,7 +68,10 @@ features:
 
 ## ビジョン
 
-- [ソフトウェア開発ライクなクリエイティブの未来](https://zenn.dev/fjktkm/articles/6a3286caa63114)
+1. fjktkm<br>
+    **ソフトウェア開発ライクなクリエイティブの未来**<br>
+    2024 年 2 月 28 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/6a3286caa63114)
 
 ## 関連リンク
 

@@ -68,7 +68,10 @@ features:
 
 ## My Vision
 
-- [The Future of Creative Work: A Software Development-Inspired Perspective](https://zenn.dev/fjktkm/articles/6a3286caa63114?locale=en)
+1. fjktkm<br>
+    **The Future of Creative Work: A Software Development-Inspired Perspective**<br>
+    February 28, 2024<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/6a3286caa63114?locale=en)
 
 ## Socials
 
