@@ -29,6 +29,10 @@ icon: material/school
 ### National Conferences and Meetings
 
 1. T. Fujioka, G. Tanaka<br>
+   **ベジェ曲線の積分に基づく損失関数を用いたベクターフォントの再構成 (in Japanese)**<br>
+   *The 29th Meeting on Image Recognition and Understanding (MIRU2026)*, Poster, Session IS3-084, August 6, 2026
+
+1. T. Fujioka, G. Tanaka<br>
    **Latent Space Interpolation of Vector Fonts with a Transformer VAE Using Patch Embedding**<br>
    *The Institute of Electronics, Information and Communication Engineers (IEICE) General Conference*, Oral Presentation, March 12, 2026
 
