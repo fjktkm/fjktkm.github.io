@@ -1,5 +1,5 @@
 ---
-title: Creative
+title: クリエイティブ
 ---
 
 ## スキル

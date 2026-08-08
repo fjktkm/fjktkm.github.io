@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Takumu Fujioka',
+  title: 'FUJIOKA Takumu',
   head: [
     [
       'link',
@@ -34,11 +34,11 @@ export default defineConfig({
       description: '藤岡拓夢のポートフォリオサイト',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
-          { text: 'Academics', link: '/academics' },
-          { text: 'Creative', link: '/creative' },
-          { text: 'Development', link: '/development' },
-          { text: 'Tech Hobby', link: '/tech_hobby' },
+          { text: 'ホーム', link: '/' },
+          { text: '学術', link: '/academics' },
+          { text: 'クリエイティブ', link: '/creative' },
+          { text: '開発', link: '/development' },
+          { text: '技術趣味', link: '/tech_hobby' },
         ],
       },
     },
@@ -46,7 +46,7 @@ export default defineConfig({
     en: {
       label: 'English',
       lang: 'en-US',
-      description: 'Portfolio website of Takumu Fujioka',
+      description: 'Portfolio website of FUJIOKA Takumu',
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },

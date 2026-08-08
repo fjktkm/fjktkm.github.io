@@ -27,7 +27,7 @@ title: Creative
     April 2025<br>
     Available at: [Official Site](https://nitmic.club.nitech.ac.jp/post/welcome-poster-2025/)
 
-1. Takumu Fujioka<br>
+1. FUJIOKA Takumu<br>
     **Pamphlet Contest Entry for the 62nd Koudaisai (1st Place)**<br>
     *62nd Koudaisai (Nagoya Institute of Technology Festival)*, November 16, 2024<br>
     Available at: [Official Site](https://www.koudaisai.com/pfc/), [X (formerly Twitter)](https://x.com/nitfes/status/1840949759592558721)
@@ -49,7 +49,7 @@ title: Creative
     Role: Poster template, Poster, Flyer<br>
     Available at: [Official Site](https://nitmic.club.nitech.ac.jp/post/welcome-poster-2023/)
 
-1. Takumu Fujioka<br>
+1. FUJIOKA Takumu<br>
     **Pamphlet Contest Entry for the 60th Koudaisai (2nd Place)**<br>
     *60th Koudaisai (Nagoya Institute of Technology Festival)*, November 19, 2022<br>
     Available at: [Official Site](https://www.koudaisai.com/60th/pfc/)
@@ -74,7 +74,7 @@ title: Creative
     Role: Editor<br>
     Available at: [Official Site](https://nitmic.club.nitech.ac.jp/post/archives-2022/), [BOOTH](https://nitmic.booth.pm/items/4322058)
 
-1. Takumu Fujioka<br>
+1. FUJIOKA Takumu<br>
     **Pamphlet for the 2020 Nagatsuki Festival at Taki Academy**<br>
     *2020 Nagatsuki Festival at Taki Academy*, September 15, 2020
 

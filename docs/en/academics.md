@@ -50,12 +50,12 @@ title: Academics
 
 ## Research Activities in High School
 
-1. Takumu Fujioka<br>
+1. FUJIOKA Takumu<br>
    **Water Computer**<br>
-   *Tsukuba Science Edge 2019*, Poster Presentation, March 22, 2019
+   *Tsukuba Science Edge 2019*, Poster Presentation, March 22, 2019<br>
    Available at: [https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
 
-1. Takumu Fujioka<br>
+1. FUJIOKA Takumu<br>
    **Water Computer**<br>
    *Kyoto Sangyo University Masukawa Juku 11th Symposium*, Poster Presentation, December 9, 2018
 

@@ -1,5 +1,5 @@
 ---
-title: Academics
+title: 学術
 ---
 
 ## 研究分野

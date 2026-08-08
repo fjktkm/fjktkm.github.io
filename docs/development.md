@@ -1,5 +1,5 @@
 ---
-title: Development
+title: 開発
 ---
 
 ## 主な技術スタック

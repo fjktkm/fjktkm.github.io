@@ -1,5 +1,5 @@
 ---
-title: Tech Hobby
+title: 技術趣味
 ---
 
 ## 自作 PC
