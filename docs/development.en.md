@@ -81,6 +81,16 @@ icon: material/code-tags
 ## Technical Blog
 
 1. fjktkm<br>
+    **Setting Up a uv Environment with Dev Containers**<br>
+    July 5, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/89ab66c1433678?locale=en)
+
+1. fjktkm<br>
+    **Use .ignore When AI Overlooks Hidden Folders with rg**<br>
+    June 30, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/c32c8041e49082?locale=en)
+
+1. fjktkm<br>
     **情報系のための Dev Container による LaTeX 環境構築**<br>
     April 28, 2026<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)

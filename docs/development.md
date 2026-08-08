@@ -81,6 +81,16 @@ icon: material/code-tags
 ## 技術ブログ
 
 1. fjktkm<br>
+    **Dev Container による uv 環境構築**<br>
+    2026 年 7 月 5 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/89ab66c1433678)
+
+1. fjktkm<br>
+    **AI が rg で隠しフォルダを見落とすときは .ignore を使おう**<br>
+    2026 年 6 月 30 日<br>
+    関連 URL: [Zenn](https://zenn.dev/fjktkm/articles/c32c8041e49082)
+
+1. fjktkm<br>
     **情報系のための Dev Container による LaTeX 環境構築**<br>
     2026 年 4 月 28 日<br>
     関連 URL: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)
