@@ -91,7 +91,7 @@ title: Development
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/c32c8041e49082?locale=en)
 
 1. fjktkm<br>
-    **情報系のための Dev Container による LaTeX 環境構築**<br>
+    **Dev Container による LaTeX 環境構築完全ガイド**<br>
     April 28, 2026<br>
     Available at: [Zenn](https://zenn.dev/fjktkm/books/8bec1228335d98), [GitHub](https://github.com/fjktkm/latex-devcontainer)
 
