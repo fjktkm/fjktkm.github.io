@@ -16,7 +16,9 @@ title: 学術
 | 2015.4–2021.3 | 滝中学校・高等学校 |
 
 - 名古屋工業大学 数理・データサイエンス・AI教育プログラム「数理情報履修モデル アドバンストコース」修了
-- 名古屋工業大学大学院 特別履修コース「実世界産業におけるデータサイエンス実践能力強化プログラム」履修中
+    - 関連 URL: [名古屋工業大学](https://www.nitech.ac.jp/edu/tackle.html)
+- 名古屋工業大学大学院 特別履修コース「実世界産業におけるデータサイエンス実践能力強化プログラム」修了
+    - 関連 URL: [名古屋工業大学](https://www.nitech.ac.jp/intro/mt_files/2025_senryaku2.pdf#:~:text=%E7%89%B9%E5%88%A5%E5%B1%A5%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9), [事業概要](https://www.niad.ac.jp/media-download/7665/37a1ecbdba4fd441/)
 
 ## 研究業績
 

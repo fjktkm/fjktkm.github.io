@@ -16,7 +16,9 @@ title: Academics
 | Apr. 2015–Mar. 2021 | Taki Junior & Senior High School |
 
 - Completed the Mathematical Information Advanced Course within the Mathematics, Data Science, and AI Program “数理情報履修モデル アドバンストコース” at Nagoya Institute of Technology.
-- Currently enrolled in the Graduate School Special Program “実世界産業におけるデータサイエンス実践能力強化プログラム” at Nagoya Institute of Technology.
+    - Available at: [Nagoya Institute of Technology](https://www.nitech.ac.jp/edu/tackle.html)
+- Completed the Graduate School Special Program “実世界産業におけるデータサイエンス実践能力強化プログラム” at Nagoya Institute of Technology.
+    - Available at: [Nagoya Institute of Technology](https://www.nitech.ac.jp/intro/mt_files/2025_senryaku2.pdf#:~:text=%E7%89%B9%E5%88%A5%E5%B1%A5%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9), [Program Overview](https://www.niad.ac.jp/media-download/7665/37a1ecbdba4fd441/)
 
 ## Publications
 
@@ -33,7 +35,7 @@ title: Academics
    *The 29th Meeting on Image Recognition and Understanding (MIRU2026)*, Poster, Session IS3-084, August 6, 2026
 
 1. T. Fujioka, G. Tanaka<br>
-   **Latent Space Interpolation of Vector Fonts with a Transformer VAE Using Patch Embedding**<br>
+   **Latent Space Interpolation of Vector Fonts with a Transformer VAE Using Patch Embedding (in Japanese)**<br>
    *The Institute of Electronics, Information and Communication Engineers (IEICE) General Conference*, Oral Presentation, March 12, 2026
 
 1. T. Fujioka, G. Tanaka<br>
@@ -41,7 +43,7 @@ title: Academics
    *The 28th Information-Based Induction Sciences Workshop (IBIS)*, Poster, November 13, 2025
 
 1. T. Fujioka, G. Tanaka<br>
-   **Transformer-Based Vector Font Classification with Patch Embedding**<br>
+   **Transformer-Based Vector Font Classification with Patch Embedding (in Japanese)**<br>
    *The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI)*, Poster, Session 3Win5-25, May 29, 2025
 
 1. T. Fujioka, G. Tanaka<br>
