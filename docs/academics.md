@@ -16,9 +16,9 @@ title: 学術
 | 2015.4–2021.3 | 滝中学校・高等学校 |
 
 - 名古屋工業大学 数理・データサイエンス・AI教育プログラム「数理情報履修モデル アドバンストコース」修了
-    - 関連 URL: [名古屋工業大学](https://www.nitech.ac.jp/edu/tackle.html)
+    - 参照先: [名古屋工業大学](https://www.nitech.ac.jp/edu/tackle.html)
 - 名古屋工業大学大学院 特別履修コース「実世界産業におけるデータサイエンス実践能力強化プログラム」修了
-    - 関連 URL: [名古屋工業大学](https://www.nitech.ac.jp/intro/mt_files/2025_senryaku2.pdf#:~:text=%E7%89%B9%E5%88%A5%E5%B1%A5%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9), [事業概要](https://www.niad.ac.jp/media-download/7665/37a1ecbdba4fd441/)
+    - 参照先: [名古屋工業大学](https://www.nitech.ac.jp/intro/mt_files/2025_senryaku2.pdf#:~:text=%E7%89%B9%E5%88%A5%E5%B1%A5%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9), [事業概要](https://www.niad.ac.jp/media-download/7665/37a1ecbdba4fd441/)
 
 ## 研究業績
 
@@ -55,7 +55,7 @@ title: 学術
 1. 藤岡 拓夢<br>
    **水コンピュータ**<br>
    *つくばScience Edge 2019*, ポスター発表, 2019年3月22日<br>
-   関連 URL: [報告書](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
+   参照先: [報告書](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
 
 1. 藤岡 拓夢<br>
    **水コンピュータ**<br>
@@ -65,4 +65,4 @@ title: 学術
 
 1. **電影会賞**<br>
    電影会 名古屋工業大学電気系同窓会，2025年3月26日<br>
-   関連 URL: [公式サイト](https://www.denei.jp/news/1746175684.html)
+   参照先: [公式サイト](https://www.denei.jp/news/1746175684.html)
