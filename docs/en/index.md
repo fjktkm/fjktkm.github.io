@@ -1,18 +1,44 @@
 ---
-icon: material/home
+layout: home
+
+hero:
+  name: Takumu Fujioka
+  text: Bridging Technology and Creative
+  tagline: Master's student at Nagoya Institute of Technology, interested in vector graphics, typography, and machine learning.
+  image:
+    src: /logo.svg
+    alt: Takumu Fujioka
+  actions:
+    - theme: brand
+      text: Academics
+      link: /en/academics
+    - theme: alt
+      text: Creative
+      link: /en/creative
+    - theme: alt
+      text: Development
+      link: /en/development
+    - theme: alt
+      text: Tech Hobby
+      link: /en/tech_hobby
+
+features:
+  - icon: 🔤
+    title: Vector Graphics
+    details: Expression and production using vector formats such as SVG
+  - icon: 🖋️
+    title: Typography
+    details: Type design and font generation with machine learning
+  - icon: 📖
+    title: Typesetting
+    details: Document typesetting technologies such as LaTeX
+  - icon: 🤖
+    title: Machine Learning
+    details: Model development and dataset design with PyTorch
+  - icon: 🛠️
+    title: Creative x DevOps
+    details: CI/CD and infrastructure automation supporting creative work
 ---
-
-## About Me
-
-I'm a master's student at the Graduate School of Engineering, Nagoya Institute of Technology. My work focuses on bridging technology and creative so that both fields can inform each other.
-
-## My Interests
-
-- Vector Graphics
-- Typography
-- Typesetting
-- Machine Learning
-- Creative x DevOps
 
 ## Highlights
 

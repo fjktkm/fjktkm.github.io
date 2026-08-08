@@ -1,5 +1,5 @@
 ---
-icon: material/school
+title: Academics
 ---
 
 ## Research Interests

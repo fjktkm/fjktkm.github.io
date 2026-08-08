@@ -1,18 +1,44 @@
 ---
-icon: material/home
+layout: home
+
+hero:
+  name: Takumu Fujioka
+  text: テクノロジーとクリエイティブの橋渡し
+  tagline: 名古屋工業大学大学院 修士課程．ベクターグラフィックス・タイポグラフィ・機械学習に関心があります．
+  image:
+    src: /logo.svg
+    alt: Takumu Fujioka
+  actions:
+    - theme: brand
+      text: Academics
+      link: /academics
+    - theme: alt
+      text: Creative
+      link: /creative
+    - theme: alt
+      text: Development
+      link: /development
+    - theme: alt
+      text: Tech Hobby
+      link: /tech_hobby
+
+features:
+  - icon: 🔤
+    title: ベクターグラフィックス
+    details: SVG などのベクター形式を用いた表現・制作
+  - icon: 🖋️
+    title: タイポグラフィ
+    details: 文字のデザインと機械学習によるフォント生成
+  - icon: 📖
+    title: 組版
+    details: LaTeX などによる文書の組版技術
+  - icon: 🤖
+    title: 機械学習
+    details: PyTorch を用いたモデル開発とデータセット設計
+  - icon: 🛠️
+    title: Creative x DevOps
+    details: 制作物を支える CI/CD・インフラの自動化
 ---
-
-## 自己紹介
-
-名古屋工業大学大学院の修士課程に在籍している学生です．テクノロジーとクリエイティブの間を橋渡しする技術者になることを目指しています．
-
-## 興味・関心
-
-- ベクターグラフィックス
-- タイポグラフィ
-- 組版
-- 機械学習
-- Creative x DevOps
 
 ## ハイライト
 
@@ -53,5 +79,5 @@ icon: material/home
 - [GitHub](https://github.com/fjktkm)
 - [Zenn](https://zenn.dev/fjktkm)
 - [note](https://note.com/fjktkm)
-- [X (formerly Twitter)](https://x.com/fjktkm)
+- [X (旧 Twitter)](https://x.com/fjktkm)
 - [connpass](https://connpass.com/user/fjktkm/)

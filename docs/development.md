@@ -1,5 +1,5 @@
 ---
-icon: material/code-tags
+title: Development
 ---
 
 ## 主な技術スタック

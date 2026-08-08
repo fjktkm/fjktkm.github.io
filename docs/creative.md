@@ -1,5 +1,5 @@
 ---
-icon: material/brush
+title: Creative
 ---
 
 ## スキル

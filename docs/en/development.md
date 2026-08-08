@@ -1,5 +1,5 @@
 ---
-icon: material/code-tags
+title: Development
 ---
 
 ## Primary Technology Stack

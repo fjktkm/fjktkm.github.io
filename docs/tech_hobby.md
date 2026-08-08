@@ -1,5 +1,5 @@
 ---
-icon: material/devices
+title: Tech Hobby
 ---
 
 ## 自作 PC
