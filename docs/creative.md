@@ -126,37 +126,37 @@ title: クリエイティブ
 1. Mass<br>
     **双星 / 結月ゆかり & 紲星あかり【CeVIO AI + VOCALOID4】**<br>
     2023 年 8 月 30 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm42694817), [YouTube](https://youtu.be/Y6DlnwJm7DI)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm42694817), [YouTube](https://youtu.be/Y6DlnwJm7DI)
 
 1. Mass<br>
     **Evil Bubble / covered by 琴葉葵【NEUTRINO】**<br>
     2023 年 4 月 25 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm42128741), [YouTube](https://youtu.be/RZLGF_iqaZY)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm42128741), [YouTube](https://youtu.be/RZLGF_iqaZY)
 
 1. BeNa<br>
     **糠に正義 / 狐子**<br>
     2023 年 3 月 18 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm41942437), [YouTube](https://youtu.be/8unfLl46kXM)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm41942437), [YouTube](https://youtu.be/8unfLl46kXM)
 
 1. BeNa<br>
     **スカラベ / IA & OИE cover**<br>
     2022 年 12 月 31 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm41585550), [YouTube](https://youtu.be/5a-p13rdKnU)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm41585550), [YouTube](https://youtu.be/5a-p13rdKnU)
 
 1. Mass<br>
     **星月 -For The Moon Weeps, The Stars Flow- / 結月ゆかり【CeVIO AI】**<br>
     2022 年 7 月 7 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm40727983), [YouTube](https://youtu.be/TqLVqC5pUOY)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm40727983), [YouTube](https://youtu.be/TqLVqC5pUOY)
 
 1. Mass<br>
     **白糸 / 結月ゆかり【CeVIO AI】**<br>
     2022 年 5 月 1 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm40349140), [YouTube](https://youtu.be/gBWS_3D6k6A)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm40349140), [YouTube](https://youtu.be/gBWS_3D6k6A)
 
 1. Mass<br>
     **桜雲 (2022 Edit) / 東北きりたん【NEUTRINO】**<br>
     2022 年 4 月 9 日<br>
-    参照先: [niconico](https://www.nicovideo.jp/watch/sm40294750), [YouTube](https://youtu.be/mtc15wSjj64)
+    参照先: [ニコニコ動画](https://www.nicovideo.jp/watch/sm40294750), [YouTube](https://youtu.be/mtc15wSjj64)
 
 ## ゲーム
 
