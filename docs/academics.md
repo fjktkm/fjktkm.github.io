@@ -55,7 +55,7 @@ title: 学術
 1. 藤岡 拓夢<br>
    **水コンピュータ**<br>
    *つくばScience Edge 2019*, ポスター発表, 2019年3月22日<br>
-   関連 URL: [https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
+   関連 URL: [報告書](https://www.jtbbwt.com/files/user/ScienceEdge/files/report/repo2019_jpn.pdf#:~:text=%E8%97%A4%E5%B2%A1%20%E6%8B%93%E5%A4%A2)
 
 1. 藤岡 拓夢<br>
    **水コンピュータ**<br>
@@ -65,4 +65,4 @@ title: 学術
 
 1. **電影会賞**<br>
    電影会 名古屋工業大学電気系同窓会，2025年3月26日<br>
-   関連 URL: [https://www.denei.jp/news/1746175684.html](https://www.denei.jp/news/1746175684.html)
+   関連 URL: [公式サイト](https://www.denei.jp/news/1746175684.html)
