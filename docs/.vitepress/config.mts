@@ -40,6 +40,20 @@ export default defineConfig({
           { text: '開発', link: '/development' },
           { text: '技術趣味', link: '/tech_hobby' },
         ],
+        sidebar: {
+          '/creative/': [
+            {
+              text: 'クリエイティブ',
+              items: [
+                { text: '概要', link: '/creative/' },
+                { text: 'NITMic', link: '/creative/nitmic' },
+                { text: 'HYPERCUBE', link: '/creative/hypercube' },
+                { text: '個人', link: '/creative/individual' },
+                { text: 'その他', link: '/creative/other' },
+              ],
+            },
+          ],
+        },
       },
     },
 
@@ -55,6 +69,20 @@ export default defineConfig({
           { text: 'Development', link: '/en/development' },
           { text: 'Tech Hobby', link: '/en/tech_hobby' },
         ],
+        sidebar: {
+          '/en/creative/': [
+            {
+              text: 'Creative',
+              items: [
+                { text: 'Overview', link: '/en/creative/' },
+                { text: 'NITMic', link: '/en/creative/nitmic' },
+                { text: 'HYPERCUBE', link: '/en/creative/hypercube' },
+                { text: 'Individual', link: '/en/creative/individual' },
+                { text: 'Other', link: '/en/creative/other' },
+              ],
+            },
+          ],
+        },
       },
     },
   },
