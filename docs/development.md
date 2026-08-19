@@ -32,6 +32,11 @@ title: 開発
     参照先: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8), [GitHub](https://github.com/torchfont/torchfont), [ドキュメント](https://torchfont.readthedocs.io/)
 
 1. fjktkm<br>
+    **名工大の非公式ステータスページ NITech Status**<br>
+    2026 年 8 月 18 日<br>
+    参照先: [Web](https://nitech-status.fjktkm.com/), [GitHub](https://github.com/fjktkm/nitech-status)
+
+1. fjktkm<br>
     **PDF プレビュー用 Discord Bot pdf2image**<br>
     2023 年 8 月 12 日<br>
     参照先: [note](https://note.com/fjktkm/n/nfe9db62c7ec8), [GitHub](https://github.com/fjktkm/pdf2image)
@@ -79,6 +84,11 @@ title: 開発
     参照先: [BOOTH](https://nitmic.booth.pm/items/6645860)
 
 ## 技術ブログ
+
+1. fjktkm<br>
+    **世界最大？Google Fonts 全部入りフォントを作ってみた**<br>
+    2026 年 8 月 19 日<br>
+    参照先: [Zenn](https://zenn.dev/fjktkm/articles/95ec94e1c2ab38)
 
 1. fjktkm<br>
     **Dev Container による uv 環境構築**<br>

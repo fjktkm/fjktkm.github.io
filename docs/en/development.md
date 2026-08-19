@@ -32,6 +32,11 @@ title: Development
     Available at: [Zenn](https://zenn.dev/fjktkm/articles/c674b6185076a8?locale=en), [GitHub](https://github.com/torchfont/torchfont), [Documentation](https://torchfont.readthedocs.io/)
 
 1. fjktkm<br>
+    **NITech Status: Unofficial Status Page for NITech Services**<br>
+    August 18, 2026<br>
+    Available at: [Web](https://nitech-status.fjktkm.com/), [GitHub](https://github.com/fjktkm/nitech-status)
+
+1. fjktkm<br>
     **pdf2image: Discord Bot for PDF Preview**<br>
     August 12, 2023<br>
     Available at: [note](https://note.com/fjktkm/n/nfe9db62c7ec8), [GitHub](https://github.com/fjktkm/pdf2image)
@@ -79,6 +84,11 @@ title: Development
     Available at: [BOOTH](https://nitmic.booth.pm/items/6645860)
 
 ## Technical Blog
+
+1. fjktkm<br>
+    **World's Largest? I Created an All-In-One Google Fonts File**<br>
+    August 19, 2026<br>
+    Available at: [Zenn](https://zenn.dev/fjktkm/articles/95ec94e1c2ab38?locale=en)
 
 1. fjktkm<br>
     **Setting Up a uv Environment with Dev Containers**<br>
