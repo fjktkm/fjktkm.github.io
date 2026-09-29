@@ -3,6 +3,7 @@
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:24",
 	"mounts": [
 		{
+			"source": "node_modules-${devcontainerId}",
 			"target": "${containerWorkspaceFolder}/node_modules",
 			"type": "volume"
 		}
