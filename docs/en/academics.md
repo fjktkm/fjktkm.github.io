@@ -22,6 +22,12 @@ title: Academics
 
 ## Publications
 
+### Conference Proceedings (refereed)
+
+1. T. Fujioka, Y. Ito, D. Inoue, T. Matsumori, H. Yoshida, G. Tanaka<br>
+   **Learning-Based Quadcopter Control via Echo State Networks**<br>
+   *SICE FESTIVAL 2026*, accepted
+
 ### International Conferences
 
 1. T. Fujioka, G. Tanaka<br>

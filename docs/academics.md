@@ -22,13 +22,19 @@ title: 学術
 
 ## 研究業績
 
-### 国際会議
+### 会議論文（査読あり）
+
+1. T. Fujioka, Y. Ito, D. Inoue, T. Matsumori, H. Yoshida, G. Tanaka<br>
+   **Learning-Based Quadcopter Control via Echo State Networks**<br>
+   *SICE FESTIVAL 2026*, accepted
+
+### 国際会議発表
 
 1. T. Fujioka, G. Tanaka<br>
    **Transformer-Based Vector Font Classification Using Different Font Formats: TrueType versus PostScript**<br>
    *International Joint Conference on Neural Networks (IJCNN)*, Poster, July 5, 2025
 
-### 国内会議・研究会
+### 国内会議・研究会発表
 
 1. 藤岡 拓夢, 田中 剛平<br>
    **ベジェ曲線の積分に基づく損失関数を用いたベクターフォントの再構成**<br>
