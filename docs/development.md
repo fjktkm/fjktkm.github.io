@@ -62,6 +62,11 @@ title: 開発
 ## LT 会
 
 1. fjktkm<br>
+    **ワナだらけ！！Raspberry Pi クラスター構築**<br>
+    *第 12 回にこのこ LT 会*, 2026 年 9 月 30 日<br>
+    参照先: [connpass](https://nitech-create.connpass.com/event/407177/), [Docswell](https://www.docswell.com/s/fjktkm/5X2NQ7-2026-10-03-132730)
+
+1. fjktkm<br>
     **NITMic 公式サイトのデプロイを自動化したい**<br>
     *第 7 回にこのこ LT 会*, 2024 年 6 月 19 日<br>
     参照先: [connpass](https://nitech-create.connpass.com/event/315146/), [Docswell](https://www.docswell.com/s/fjktkm/KGX9XL-2024-06-20-023846), [GitHub](https://github.com/nitmic/nitmic.club.nitech.ac.jp)

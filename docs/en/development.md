@@ -62,6 +62,11 @@ title: Development
 ## Lightning Talks
 
 1. fjktkm<br>
+    **ワナだらけ！！Raspberry Pi クラスター構築**<br>
+    *第 12 回にこのこ LT 会*, September 30, 2026<br>
+    Available at: [connpass](https://nitech-create.connpass.com/event/407177/), [Docswell](https://www.docswell.com/s/fjktkm/5X2NQ7-2026-10-03-132730)
+
+1. fjktkm<br>
     **NITMic 公式サイトのデプロイを自動化したい**<br>
     *第 7 回にこのこ LT 会*, June 19, 2024<br>
     Available at: [connpass](https://nitech-create.connpass.com/event/315146/), [Docswell](https://www.docswell.com/s/fjktkm/KGX9XL-2024-06-20-023846), [GitHub](https://github.com/nitmic/nitmic.club.nitech.ac.jp)
