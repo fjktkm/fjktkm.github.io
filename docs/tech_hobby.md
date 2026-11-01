@@ -22,19 +22,25 @@ title: 技術趣味
 
 - ルーター: Ubiquiti UniFi Dream Machine Special Edition
 - アクセスポイント: Ubiquiti UniFi U7 Pro
+- PoE スイッチ: Ubiquiti UniFi Switch Lite 8 PoE
+- Kubernetes クラスタ
+    - Control Plane: Raspberry Pi 5 8GB x3
+        - WaveShare PoE M.2 HAT+ (C) For Raspberry Pi 5
+        - OS: Raspberry Pi OS Lite (trixie)
+    - Worker: Dell OptiPlex 3080 Micro x3
+        - CPU: Intel Core i5-10500T
+        - OS: Ubuntu Server 26.04 LTS
+    - サービス
+        - Argo CD
+        - Longhorn
+        - Headlamp
+        - cloudflared
+        - NITech Status
+        - Discord Bot pdf2image
+            - 参照先: [note](https://note.com/fjktkm/n/nfe9db62c7ec8)
+    - 参照先: [GitHub](https://github.com/fjktkm/manifests), [Docswell](https://www.docswell.com/s/fjktkm/5X2NQ7-2026-10-03-132730)
 - IP-KVM: JetKVM
     - 参照先: [note](https://note.com/fjktkm/n/na9c99b50e22e)
-- Raspberry Pi 5 8GB (1)
-    - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
-    - Unifi Network Application
-    - 参照先: [note](https://note.com/fjktkm/n/n38553d5b8d9b)
-- Raspberry Pi 5 8GB (2)
-    - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
-    - Discord Bot pdf2image
-    - 参照先: [note](https://note.com/fjktkm/n/nfe9db62c7ec8)
-- Raspberry Pi 5 8GB (3)
-    - WaveShare PoE HAT (H) For Raspberry Pi 5 / CM 5
-    - Home Assistant
 
 ## オーディオ機器
 
@@ -51,6 +57,13 @@ title: 技術趣味
 - ペンタブ: Wacom Cintiq 16
 - 左手デバイス: TourBox NEO
 - Web カメラ: Insta360 Link 2
+
+## LT 会
+
+1. fjktkm<br>
+    **ワナだらけ！！Raspberry Pi クラスター構築**<br>
+    *第 12 回にこのこ LT 会*, 2026 年 9 月 30 日<br>
+    参照先: [connpass](https://nitech-create.connpass.com/event/407177/), [Docswell](https://www.docswell.com/s/fjktkm/5X2NQ7-2026-10-03-132730)
 
 ## ブログ
 
